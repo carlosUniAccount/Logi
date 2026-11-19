@@ -52,7 +52,7 @@ Como Executar Localmente (XAMPP)
     Clone este repositório ou copie a pasta Logi para dentro do diretório htdocs do seu XAMPP[cite: 1]:
     Bash
 
-    git clone
+    git clone https://github.com/carlosUniAccount/Logi.git
 
     Inicie o serviço Apache no painel de controle do XAMPP[cite: 1].
 
