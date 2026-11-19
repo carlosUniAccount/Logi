@@ -8,22 +8,22 @@ O sistema permite gerenciar o catálogo de produtos, pontos de origem e destino,
 
 ## Funcionalidades
 
-- **Dashboard (`index.php`)**: Visão geral da operação com indicadores de total de produtos, transportadores ativos, fretes gerados no dia, listagem dos últimos fretes e atalhos rápidos[cite: 2].
-- **Produtos (`produtos.php`)**: Cadastro, listagem com busca instantânea, edição e exclusão de produtos (ID, nome, preço e peso)[cite: 1, 3, 4].
-- **Endereços (`enderecos.php`)**: Cadastro, listagem, edição e exclusão de endereços utilizados como origem e destino nos fretes[cite: 1, 5, 6].
-- **Transportadores (`transportadores.php`)**: Cadastro, listagem, edição e exclusão de motoristas ou empresas transportadoras[cite: 1, 7].
+- **Dashboard (`index.php`)**: Visão geral da operação com indicadores de total de produtos, transportadores ativos, fretes gerados no dia, listagem dos últimos fretes e atalhos rápidos.
+- **Produtos (`produtos.php`)**: Cadastro, listagem com busca instantânea, edição e exclusão de produtos (ID, nome, preço e peso).
+- **Endereços (`enderecos.php`)**: Cadastro, listagem, edição e exclusão de endereços utilizados como origem e destino nos fretes.
+- **Transportadores (`transportadores.php`)**: Cadastro, listagem, edição e exclusão de motoristas ou empresas transportadoras.
 - **Fretes (`fretes.php`)**: Geração de fretes vinculando **1 transportador**, **1 endereço de origem**, **1 endereço de destino** e **múltiplos produtos** com quantidades personalizadas e cálculo dinâmico de peso total em JavaScript[cite: 1, 8, 9].
-- **Relatórios Diários (`relatorios.php`)**: Filtro por data específica e download do relatório de fretes do dia em formato CSV compatível com Excel[cite: 1, 10].
+- **Relatórios Diários (`relatorios.php`)**: Filtro por data específica e download do relatório de fretes do dia em formato CSV compatível com Excel.
 
 ---
 
 ## Tecnologias Utilizadas
 
 - **Backend**: PHP 8+ com PDO (`SQLite` embutido para persistência local sem necessidade de configuração externa)
-- **Frontend**: HTML5, Tailwind CSS e JavaScript (manipulação dinâmica de seleção de produtos, cálculo de peso e filtros de busca)[cite: 1]
-- **Ambiente Local**: XAMPP (Apache)[cite: 1]
-- **Prototipação**: Figma[cite: 1]
-- **Versionamento**: Git e GitHub[cite: 1]
+- **Frontend**: HTML5, Tailwind CSS e JavaScript (manipulação dinâmica de seleção de produtos, cálculo de peso e filtros de busca)
+- **Ambiente Local**: XAMPP (Apache)
+- **Prototipação**: Figma https://www.figma.com/design/lNnRZTsZoGOwNXu0SAXx3Y/APO?node-id=14-1662&t=LbZqSQxEwfOQPKdy-1
+- **Versionamento**: Git e GitHub
 
 ---
 
