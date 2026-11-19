@@ -16,9 +16,6 @@ $tituloPagina = $tituloPagina ?? 'Dashboard';
     <div class="flex-1 flex flex-col min-w-0">
         <header class="h-16 bg-white border-b border-slate-200 px-8 flex items-center justify-between">
             <span class="font-semibold text-slate-800"><?= htmlspecialchars($tituloPagina) ?></span>
-            <div class="text-right">
-                <p class="text-sm font-medium text-slate-800 leading-tight">Mariana Costa</p>
-                <p class="text-xs text-slate-400">Administradora</p>
-            </div>
+            
         </header>
         <main class="flex-1 p-8 max-w-7xl w-full mx-auto">
