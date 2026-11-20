@@ -67,7 +67,7 @@ Como Executar Localmente (XAMPP)
 
 Vídeo de Demonstração
 
-    Link do vídeo (YouTube - Não Listado):
+    Link do vídeo (YouTube - Não Listado): https://youtu.be/LS9VxxLx28k
 
 Autor
 
