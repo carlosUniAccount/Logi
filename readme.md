@@ -75,7 +75,7 @@ Autor
 
     RA: 09063110
 
-    Instituição: UNIPAR EAD — Polo Altônia
+    Instituição: UNIPAR EAD — Polo Altônia / Nova Santa Rosa
 
     OBS: CarlosECampinas e minha conta padrao no vscode
 ```
